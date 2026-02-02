@@ -72,9 +72,9 @@ Achievements are **milestones**, not goals.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Djunekz&show_icons=true&hide_border=true&hide_title=true)  
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djunekz&show_icons=true&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Djunekz&layout=compact&hide_border=true)
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs?username=djunekz&layout=compact&hide_border=true)
 
 ---
 
