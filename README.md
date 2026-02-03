@@ -74,7 +74,13 @@ Achievements are **milestones**, not goals.
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djunekz&show_icons=true&hide_border=true)  
 
-![Top Languages](https://img.shields.io/badge/Top%20Languages-Check%20your%20repos-blue?style=flat)
+## 📊 Top Languages
+
+Python        ██████████ 50%
+Shell         ████        20%
+Rust          ███         15%
+C/C++         ██          15%
+JavaScript    ██          10%
 
 ---
 
