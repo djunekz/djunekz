@@ -74,7 +74,7 @@ Achievements are **milestones**, not goals.
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djunekz&show_icons=true&hide_border=true)  
 
-![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs?username=djunekz&layout=compact&hide_border=true)
+![Top Languages](https://your-vercel-deployment.vercel.app/api/top-langs?username=djunekz&layout=compact&hide_border=true)
 
 ---
 
