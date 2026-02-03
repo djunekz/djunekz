@@ -109,8 +109,13 @@ Symbols, not objectives.
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djunekz&show_icons=true&hide_border=true)  
 
-**Top Languages:**  
-Python ██████████ 50% | Shell ████ 20% | Rust ███ 15% | C/C++ ██ 15% | JavaScript ██ 10%
+## ⟁ Operational Technical Signal
+
+- **`Python`** — orchestration, intent, automation  
+- **`Shell`** — operational truth  
+- **`Rust`** — safety-first systems  
+- **`C / C++`** — when abstraction lies  
+- **`JavaScript`** — integration layer
 
 ---
 
