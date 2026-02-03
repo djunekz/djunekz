@@ -5,38 +5,23 @@
 -->
 
 # WHOAMI
-> Djunekz / RedHat / mrxXx / Hmei7 / Anonymous
-
+> Djunekz / RedHat / Hmei7 / mrxXx / Anonymous
 > _I build tools that make workflows inevitable._
-
----
 
 ## 👋 About Me
 
 I am a software engineer passionate about building **CLI/TUI tools**, automation, and workflows that simplify complex processes.  
-I focus on open source contributions and practical systems design.
+I focus on **open source contributions** and **practical systems design**.
 
 - 🔧 Focus: Automation, Tooling, DevOps Lite
 - 🌱 Currently: Developing CLI/TUI applications with Python & Node.js
 - 🧩 Interests: Embedded systems, workflow orchestration, and tooling
 
----
-
 ## ⚙ Skills
 
-**Languages**  
-- Python, Node.js, Bash, C/C++
-
-**Platforms & Tools**  
-- Linux, Termux, GitHub Actions, Docker
-
-**Specialties**  
-- CLI / TUI tools  
-- Workflow automation  
-- Release & CI/CD systems  
-- Embedded & system-level integrations
-
----
+**Languages:** Python, Node.js, Bash, C/C++, Rust  
+**Platforms & Tools:** Linux, Termux, GitHub Actions, Docker  
+**Specialties:** CLI / TUI tools, Workflow automation, Release & CI/CD systems, Embedded & system-level integrations
 
 ## 🚀 Highlight Projects
 
@@ -55,8 +40,6 @@ I focus on open source contributions and practical systems design.
 **Termux-App-Store** — CLI & TUI package management for Termux  
 > Simplifies browsing, installing, and maintaining apps from Termux repositories.
 
----
-
 ## 🏆 Achievements
 
 - Starstruck  
@@ -64,32 +47,26 @@ I focus on open source contributions and practical systems design.
 - Pull Shark  
 - Pair Extraordinaire  
 - Quickdraw  
-- YOLO
+- YOLO  
 
 Achievements are **milestones**, not goals.
 
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djunekz&show_icons=true&hide_border=true)  
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djunekz&show_icons=true&hide_border=true)
 
 ## 📊 Top Languages
 
-Python        ██████████ 50%
-Shell         ████        20%
-Rust          ███         15%
-C/C++         ██          15%
-JavaScript    ██          10%
-
----
+Python        ██████████ 50%  
+Shell         ████        20%  
+Rust          ███         15%  
+C/C++         ██          15%  
+JavaScript    ██          10%  
 
 ## 📫 Contact
 
 - GitHub: [@djunekz](https://github.com/djunekz)  
 - Email: gab288.gab288@passinbox.com
-
----
 
 <sub>
 Tools over words.  
