@@ -63,20 +63,30 @@ Environment: Linux, Termux, GitHub Actions, Containers (only when entropy demand
 
 ## ⌬ Artifacts
 
+## 🚀 Highlight Projects
+
 **AURA**  
-> Automation is not magic. It is discipline encoded.
+[![repo](https://img.shields.io/badge/aura-automation-blue?style=flat)](https://github.com/djunekz/aura)
+[![status](https://img.shields.io/badge/status-active-success?style=flat)](https://github.com/djunekz/aura)
+> Automation & Release Assistant
 
 **PMCLI**  
-> Project management without meetings.
+[![repo](https://img.shields.io/badge/pmcli-CLI-lightgrey?style=flat)](https://github.com/djunekz/pmcli)
+[![status](https://img.shields.io/badge/status-active-success?style=flat)](https://github.com/djunekz/pmcli)
+> Project management without meetings
 
 **TDOC**  
-> Documentation as a system.
+[![repo](https://img.shields.io/badge/tdoc-documentation-informational?style=flat)](https://github.com/djunekz/tdoc)
+[![status](https://img.shields.io/badge/status-active-success?style=flat)](https://github.com/djunekz/tdoc)
+> Documentation as a system
+
+**Termux-App-Store**  
+[![repo](https://img.shields.io/badge/termux--app--store-termux-black?style=flat)](https://github.com/djunekz/termux-app-store)
+[![interface](https://img.shields.io/badge/interface-CLI%20%2F%20TUI-blueviolet?style=flat)](https://github.com/djunekz/termux-app-store)
+> CLI & TUI package management for Termux
 
 **TUI Systems**  
 > Interfaces that do not beg for attention.
-
-**Termux-App-Store**  
-> CLI & TUI package management for Termux.
 
 Artifacts exist so humans can disappear.
 
