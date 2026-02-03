@@ -1,46 +1,87 @@
 <!--
-  Profile: Legend Engineer
-  Theme: Confidence with clarity
-  Status: Professional
+  Profile: Mythic Engineer
+  Theme: Silence over noise
+  Status: Transcendent
 -->
 
-# WHOAMI
-> Djunekz / RedHat / Hmei7 / mrxXx / Anonymous
-> _I build tools that make workflows inevitable._
+# WHOAMI ?
 
-## 👋 About Me
+> Djunekz / RedHat / mrxXx / Hmei7 / Anonymous
+> _I reduce systems until only intention remains._  
 
-I am a software engineer passionate about building **CLI/TUI tools**, automation, and workflows that simplify complex processes.  
-I focus on **open source contributions** and **practical systems design**.
+---
 
-- 🔧 Focus: Automation, Tooling, DevOps Lite
-- 🌱 Currently: Developing CLI/TUI applications with Python & Node.js
-- 🧩 Interests: Embedded systems, workflow orchestration, and tooling
+## ∴ Presence
 
-## ⚙ Skills
+I operate in the space between:  
+- intention and execution  
+- chaos and structure  
+- automation and trust  
 
-**Languages:** Python, Node.js, Bash, C/C++, Rust  
-**Platforms & Tools:** Linux, Termux, GitHub Actions, Docker  
-**Specialties:** CLI / TUI tools, Workflow automation, Release & CI/CD systems, Embedded & system-level integrations
+I don’t “learn stacks”.  
+I **design constraints**.
 
-## 🚀 Highlight Projects
+---
 
-**AURA** — Automation & Release Assistant  
-> Streamlines GitHub workflows and automates release tasks.
+## ⟁ Work Philosophy
 
-**PMCLI** — Project Manager CLI  
-> Terminal-first tool for managing projects and dependencies.
+- If a system needs constant attention, it is already broken  
+- Automation is not speed — it is **memory**  
+- Interfaces exist to hide complexity, not expose it  
+- Tools should feel **inevitable**  
 
-**TDOC** — Documentation as a system  
-> Structured and automated documentation for tools and workflows.
+I build systems that survive absence.
 
-**TUI Systems** — Interactive terminal interfaces  
-> Designed for usability and efficiency.
+---
 
-**Termux-App-Store** — CLI & TUI package management for Termux  
-> Simplifies browsing, installing, and maintaining apps from Termux repositories.
+## ⚙ Domains of Control
 
-## 🏆 Achievements
+**Primary:**  
+- Tooling Architecture (CLI / TUI)  
+- Automation & Release Systems  
+- Workflow Reduction  
+- Failure-Oriented Design  
+
+**Secondary:**  
+- Embedded Systems  
+- Hardware ↔ Software Interfaces  
+- Minimal Infrastructure
+
+---
+
+## ⛓ Technical Instruments
+
+- Python — orchestration & intent  
+- Node.js — integration & surface layer  
+- Bash — operational truth  
+- C / C++ / Rust — when abstraction lies  
+
+Environment: Linux, Termux, GitHub Actions, Containers (only when entropy demands it)
+
+---
+
+## ⌬ Artifacts
+
+**AURA**  
+> Automation is not magic. It is discipline encoded.
+
+**PMCLI**  
+> Project management without meetings.
+
+**TDOC**  
+> Documentation as a system.
+
+**TUI Systems**  
+> Interfaces that do not beg for attention.
+
+**Termux-App-Store**  
+> CLI & TUI package management for Termux.
+
+Artifacts exist so humans can disappear.
+
+---
+
+## 🜂 Signals
 
 - Starstruck  
 - Galaxy Brain  
@@ -49,27 +90,37 @@ I focus on **open source contributions** and **practical systems design**.
 - Quickdraw  
 - YOLO  
 
-Achievements are **milestones**, not goals.
+Symbols, not objectives.
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djunekz&show_icons=true&hide_border=true)
+## ⟁ Operational Metrics
 
-## 📊 Top Languages
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djunekz&show_icons=true&hide_border=true)  
 
-Python        ██████████ 50%  
-Shell         ████        20%  
-Rust          ███         15%  
-C/C++         ██          15%  
-JavaScript    ██          10%  
+**Top Languages:**  
+Python ██████████ 50% | Shell ████ 20% | Rust ███ 15% | C/C++ ██ 15% | JavaScript ██ 10%
 
-## 📫 Contact
+---
+
+## ⟁ Operating Principles
+
+- Prefer deletion over addition  
+- Build for the moment you are not there  
+- Trust is a system property  
+- Complexity is debt with interest
+
+---
+
+## ∎ Contact
 
 - GitHub: [@djunekz](https://github.com/djunekz)  
 - Email: gab288.gab288@passinbox.com
 
+---
+
 <sub>
-Tools over words.  
-Systems over hype.  
-Impact over ego.
+No roadmap.  
+No promises.  
+Only systems that converge.
 </sub>
