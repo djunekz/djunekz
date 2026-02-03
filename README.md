@@ -52,10 +52,11 @@ I build systems that survive absence.
 
 ## ⛓ Technical Instruments
 
-- Python — orchestration & intent  
-- Node.js — integration & surface layer  
-- Bash — operational truth  
-- C / C++ / Rust — when abstraction lies  
+- **`Python`** — orchestration, intent, automation  
+- **`Shell`** — operational truth  
+- **`Rust`** — safety-first systems  
+- **`C / C++`** — when abstraction lies  
+- **`JavaScript`** — integration layer  
 
 Environment: Linux, Termux, GitHub Actions, Containers (only when entropy demands it)
 
